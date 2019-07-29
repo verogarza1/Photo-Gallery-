@@ -1,0 +1,22 @@
+img{
+  width:400px;
+  height:300px;
+  object-fit: cover;
+  image-orientation: none;
+}
+
+h1 {
+  font-family:'Megrim', cursive;
+  color: darkseagreen;
+  text-align: center;
+  font-size: 500%;
+  background-size:cover;
+  background-color: aliceblue;
+}
+
+h2{
+  font-family: 'Poiret One', cursive;
+  font-size: 300%;
+  color: thistle;
+  text-align: center;
+}
